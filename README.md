@@ -6,8 +6,6 @@ A clean, responsive, and dynamic web-based music player built from scratch. This
 You can listen to the live player right in your browser here:
 👉 **[Launch Custom Music Player](https://smissyo.github.io/Music-player/))**
 
-*(Note: Remember to replace `YOUR_GITHUB_USERNAME` in the link above with your actual GitHub username!)*
-
 ## ✨ Features
 * **Dynamic Playlist Controls:** Play, pause, skip forward, and jump back across a customized track list with synchronized icon state updates.
 * **Smart UI Binding:** Track titles, artist metadata, and cover art swap out instantly whenever the song changes.
